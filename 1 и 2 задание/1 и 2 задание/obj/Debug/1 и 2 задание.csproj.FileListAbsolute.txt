@@ -1,0 +1,15 @@
+C:\program1\Visual Studia1\cod11\1 и 2 задание\1 и 2 задание\bin\Debug\1 и 2 задание.exe.config
+C:\program1\Visual Studia1\cod11\1 и 2 задание\1 и 2 задание\bin\Debug\1 и 2 задание.exe
+C:\program1\Visual Studia1\cod11\1 и 2 задание\1 и 2 задание\bin\Debug\1 и 2 задание.pdb
+C:\program1\Visual Studia1\cod11\1 и 2 задание\1 и 2 задание\obj\Debug\1 и 2 задание.csproj.AssemblyReference.cache
+C:\program1\Visual Studia1\cod11\1 и 2 задание\1 и 2 задание\obj\Debug\1 и 2 задание.csproj.SuggestedBindingRedirects.cache
+C:\program1\Visual Studia1\cod11\1 и 2 задание\1 и 2 задание\obj\Debug\MainWindow.baml
+C:\program1\Visual Studia1\cod11\1 и 2 задание\1 и 2 задание\obj\Debug\MainWindow.g.cs
+C:\program1\Visual Studia1\cod11\1 и 2 задание\1 и 2 задание\obj\Debug\App.g.cs
+C:\program1\Visual Studia1\cod11\1 и 2 задание\1 и 2 задание\obj\Debug\1 и 2 задание_MarkupCompile.cache
+C:\program1\Visual Studia1\cod11\1 и 2 задание\1 и 2 задание\obj\Debug\1 и 2 задание.g.resources
+C:\program1\Visual Studia1\cod11\1 и 2 задание\1 и 2 задание\obj\Debug\_1_и_2_задание.Properties.Resources.resources
+C:\program1\Visual Studia1\cod11\1 и 2 задание\1 и 2 задание\obj\Debug\1 и 2 задание.csproj.GenerateResource.cache
+C:\program1\Visual Studia1\cod11\1 и 2 задание\1 и 2 задание\obj\Debug\1 и 2 задание.csproj.CoreCompileInputs.cache
+C:\program1\Visual Studia1\cod11\1 и 2 задание\1 и 2 задание\obj\Debug\1 и 2 задание.exe
+C:\program1\Visual Studia1\cod11\1 и 2 задание\1 и 2 задание\obj\Debug\1 и 2 задание.pdb
