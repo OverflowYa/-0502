@@ -1,0 +1,15 @@
+C:\program1\Visual Studia1\cod11\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\program1\Visual Studia1\cod11\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\program1\Visual Studia1\cod11\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\program1\Visual Studia1\cod11\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+C:\program1\Visual Studia1\cod11\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.SuggestedBindingRedirects.cache
+C:\program1\Visual Studia1\cod11\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+C:\program1\Visual Studia1\cod11\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\program1\Visual Studia1\cod11\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\program1\Visual Studia1\cod11\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\program1\Visual Studia1\cod11\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\program1\Visual Studia1\cod11\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\program1\Visual Studia1\cod11\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\program1\Visual Studia1\cod11\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\program1\Visual Studia1\cod11\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\program1\Visual Studia1\cod11\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
