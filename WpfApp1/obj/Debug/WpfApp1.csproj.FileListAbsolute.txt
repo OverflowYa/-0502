@@ -1,0 +1,15 @@
+E:\programirovanie\Wpf 1 задание\пример\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+E:\programirovanie\Wpf 1 задание\пример\WpfApp1\obj\Debug\MainWindow.g.cs
+E:\programirovanie\Wpf 1 задание\пример\WpfApp1\obj\Debug\App.g.cs
+E:\programirovanie\Wpf 1 задание\пример\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+E:\programirovanie\Wpf 1 задание\пример\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+E:\programirovanie\Wpf 1 задание\пример\WpfApp1\bin\Debug\WpfApp1.exe.config
+E:\programirovanie\Wpf 1 задание\пример\WpfApp1\bin\Debug\WpfApp1.exe
+E:\programirovanie\Wpf 1 задание\пример\WpfApp1\bin\Debug\WpfApp1.pdb
+E:\programirovanie\Wpf 1 задание\пример\WpfApp1\obj\Debug\MainWindow.baml
+E:\programirovanie\Wpf 1 задание\пример\WpfApp1\obj\Debug\WpfApp1.g.resources
+E:\programirovanie\Wpf 1 задание\пример\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+E:\programirovanie\Wpf 1 задание\пример\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+E:\programirovanie\Wpf 1 задание\пример\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+E:\programirovanie\Wpf 1 задание\пример\WpfApp1\obj\Debug\WpfApp1.exe
+E:\programirovanie\Wpf 1 задание\пример\WpfApp1\obj\Debug\WpfApp1.pdb
